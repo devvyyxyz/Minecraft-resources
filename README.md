@@ -17,18 +17,33 @@ Explore our collection of texture packs, each tailored to enhance your Minecraft
 ### List of Texture Packs
 
 - **Gold Title** – Makes the Minecraft title gold.
+	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/91xoHF5V&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **No Pumpkin Blur** – Removes the blur effect when wearing a pumpkin.
+	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/rERW3QhL&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Low Fire** – Reduces the fire texture size on the screen.
+	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/xFSWIMEj&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Clear Water** – Increases water transparency for improved underwater visibility.
+	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Tool Durability Overlay** – Adds durability color indicators on tools.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Minimal GUI** – Simplifies the user interface for a cleaner look.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Transparent Shields** – Reduces or removes the shield view when equipped.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Quieter Rain** – Lowers the intensity of rain particles and sound.
+	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Mob Health Bars** – Adds health bars above mobs, showing their remaining health.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **3D Ore Borders** – Adds subtle 3D borders to ores, enhancing visibility.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Simplified Redstone** – Adds color-coded elements to redstone components.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Enchantment Glow Tweak** – Adjusts the color or intensity of the enchantment glow effect.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 - **Directional Blocks** – Adds markings on directional blocks like logs and chests.
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/1234&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
+- **Liminality - Liminal ultimate** – Liminal ultimate is the best backrooms pack for Minecraft, for you
+  	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/NAze7IKd&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 
 ---
 
@@ -48,7 +63,8 @@ Data packs bring custom functions and commands to the game, adding new in-game f
 
 ### List of Data Packs
 
-- (Placeholder for future data packs) – New data packs will be available here soon!
+- **Recraftables** – Makes some items and blocks easily easily gainable by adding new recipes and loot drops.
+	<img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/BBNKnky3&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 
 ---
 
