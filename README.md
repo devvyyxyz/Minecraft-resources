@@ -8,8 +8,6 @@ This repository hosts a collection of Minecraft texture packs, mods, and data pa
 - **Mods** – Introduce new mechanics or change gameplay elements.
 - **Data Packs** – Add or alter in-game functionality with custom commands and data-driven features.
 
----
-
 ## 🎨 Texture Packs
 ### List of Texture Packs
 
@@ -42,22 +40,16 @@ This repository hosts a collection of Minecraft texture packs, mods, and data pa
 - **Liminality - Liminal ultimate** – Liminal ultimate is the best backrooms pack for Minecraft, for you
   	- <img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/NAze7IKd&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
 
----
-
 ## 🔧 Mods
 ### List of Mods
 
 - (Placeholder for future mods) – Stay tuned as we develop new mods to enrich your gameplay!
-
----
 
 ## ⚙️ Data Packs
 ### List of Data Packs
 
 - **Recraftables** – Makes some items and blocks easily easily gainable by adding new recipes and loot drops.
 	- <img src="https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix=%20downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/BBNKnky3&amp;logo=modrinth&amp;logoColor=2d2d2d" alt="Modrinth downloads">
-
----
 
 ## How to Add a Resource in Minecraft
 
@@ -84,8 +76,6 @@ This repository hosts a collection of Minecraft texture packs, mods, and data pa
 2. **Open World Folder** – Go to your Minecraft world save folder, then into `datapacks`.
 3. **Copy and Paste** – Place the data pack folder or zip file in `datapacks`.
 4. **Load Data Pack** – Enter the world, and use the `/reload` command to activate the data pack.
-
----
 
 ## 🚀 Auto-Installation (Windows & Linux)
 
