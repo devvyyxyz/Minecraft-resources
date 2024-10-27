@@ -1,19 +1,16 @@
 # Minecraft Resources: Texture Packs, Mods, and Data Packs
 
-Welcome to the Devvy's Modrinth Repository! This repository hosts a collection of Minecraft texture packs, mods, and data packs created by Devvyxyz and published on [Modrinth](https://modrinth.com). These resources are designed to enhance various aspects of the game, from visual improvements to gameplay modifications.
+This repository hosts a collection of Minecraft texture packs, mods, and data packs created and published on [Modrinth](https://modrinth.com). These resources are designed to enhance various aspects of the game, from visual improvements to gameplay modifications.
 
 ## 📂 Contents
 
-- **Texture Packs** – Modify visuals to enhance your Minecraft experience.
+- **Texture Packs** – Modify visuals of Minecraft.
 - **Mods** – Introduce new mechanics or change gameplay elements.
 - **Data Packs** – Add or alter in-game functionality with custom commands and data-driven features.
 
 ---
 
 ## 🎨 Texture Packs
-
-Explore our collection of texture packs, each tailored to enhance your Minecraft experience.
-
 ### List of Texture Packs
 
 - **Gold Title** – Makes the Minecraft title gold.
@@ -48,9 +45,6 @@ Explore our collection of texture packs, each tailored to enhance your Minecraft
 ---
 
 ## 🔧 Mods
-
-Our mods add unique gameplay features and mechanics to enhance your Minecraft experience.
-
 ### List of Mods
 
 - (Placeholder for future mods) – Stay tuned as we develop new mods to enrich your gameplay!
@@ -58,9 +52,6 @@ Our mods add unique gameplay features and mechanics to enhance your Minecraft ex
 ---
 
 ## ⚙️ Data Packs
-
-Data packs bring custom functions and commands to the game, adding new in-game features or modifying existing mechanics.
-
 ### List of Data Packs
 
 - **Recraftables** – Makes some items and blocks easily easily gainable by adding new recipes and loot drops.
@@ -96,14 +87,14 @@ Data packs bring custom functions and commands to the game, adding new in-game f
 
 ---
 
-🚀 Auto-Installation (Windows & Linux)
+## 🚀 Auto-Installation (Windows & Linux)
 
 To make setup easier, we’ve provided auto-installation scripts for Windows and Linux. These scripts will automatically download and place the selected texture packs, mods, or data packs in the correct directories.
 
 ### 🖥️ Windows (Batch Script)
-	1.	Download the install.bat file from this repository.
-	2.	Run the install.bat file by double-clicking it.
-	3.	Follow the prompts to select the resources you want to install.
+1. Download the install.bat file from this repository.
+2.	Run the install.bat file by double-clicking it.
+3.	Follow the prompts to select the resources you want to install.
 The script will automatically:
 	•	Download selected resources
 	•	Move texture packs to .minecraft/resourcepacks
