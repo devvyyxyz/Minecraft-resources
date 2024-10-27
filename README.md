@@ -110,18 +110,8 @@ chmod +x install.sh
 ʼʼʼ
 	4.	Follow the prompts to select the resources you want to install.
 
-## 🤝 Community and Support
-
-If you have questions, need assistance, or want to share feedback, feel free to open an issue in this repository. Our community is here to help and discuss ideas.
-
 ## ⚖️ Legal Disclaimer
 
 These resources are designed for use within Minecraft and are not to be used for commercial purposes. Check each Modrinth page for specific usage terms and permissions.
-
-## ©️ License
-
+**License**
 All resources in this repository are available under the terms specified on their respective Modrinth pages.
-
-## 💸 Donate
-
-If you enjoy these resources and would like to support future projects, consider donating to help Devvyxyz continue creating and improving these Minecraft mods, texture packs, and data packs!
