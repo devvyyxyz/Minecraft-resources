@@ -2,7 +2,7 @@
 
 Welcome to the Devvy's Modrinth Repository! This repository hosts a collection of Minecraft texture packs, mods, and data packs created by Devvyxyz and published on [Modrinth](https://modrinth.com). These resources are designed to enhance various aspects of the game, from visual improvements to gameplay modifications.
 
-## Contents
+## 📂 Contents
 
 - **Texture Packs** – Modify visuals to enhance your Minecraft experience.
 - **Mods** – Introduce new mechanics or change gameplay elements.
@@ -10,7 +10,7 @@ Welcome to the Devvy's Modrinth Repository! This repository hosts a collection o
 
 ---
 
-## Texture Packs
+## 🎨 Texture Packs
 
 Explore our collection of texture packs, each tailored to enhance your Minecraft experience.
 
@@ -32,7 +32,7 @@ Explore our collection of texture packs, each tailored to enhance your Minecraft
 
 ---
 
-## Mods
+## 🔧 Mods
 
 Our mods add unique gameplay features and mechanics to enhance your Minecraft experience.
 
@@ -42,7 +42,7 @@ Our mods add unique gameplay features and mechanics to enhance your Minecraft ex
 
 ---
 
-## Data Packs
+## ⚙️ Data Packs
 
 Data packs bring custom functions and commands to the game, adding new in-game features or modifying existing mechanics.
 
@@ -84,7 +84,7 @@ Data packs bring custom functions and commands to the game, adding new in-game f
 
 If you have questions, need assistance, or want to share feedback, feel free to open an issue in this repository. Our community is here to help and discuss ideas.
 
-## Legal Disclaimer
+## ⚖️ Legal Disclaimer
 
 These resources are designed for use within Minecraft and are not to be used for commercial purposes. Check each Modrinth page for specific usage terms and permissions.
 
@@ -92,6 +92,6 @@ These resources are designed for use within Minecraft and are not to be used for
 
 All resources in this repository are available under the terms specified on their respective Modrinth pages.
 
-## Donate
+## 💸 Donate
 
 If you enjoy these resources and would like to support future projects, consider donating to help Devvyxyz continue creating and improving these Minecraft mods, texture packs, and data packs!
