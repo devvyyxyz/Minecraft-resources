@@ -103,5 +103,7 @@ chmod +x install.sh
 ## ⚖️ Legal Disclaimer
 
 These resources are designed for use within Minecraft and are not to be used for commercial purposes. Check each Modrinth page for specific usage terms and permissions.
+
 **License**
+
 All resources in this repository are available under the terms specified on their respective Modrinth pages.
