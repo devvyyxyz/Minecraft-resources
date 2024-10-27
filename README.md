@@ -80,6 +80,29 @@ Data packs bring custom functions and commands to the game, adding new in-game f
 
 ---
 
+🚀 Auto-Installation (Windows & Linux)
+
+To make setup easier, we’ve provided auto-installation scripts for Windows and Linux. These scripts will automatically download and place the selected texture packs, mods, or data packs in the correct directories.
+
+### 🖥️ Windows (Batch Script)
+	1.	Download the install.bat file from this repository.
+	2.	Run the install.bat file by double-clicking it.
+	3.	Follow the prompts to select the resources you want to install.
+The script will automatically:
+	•	Download selected resources
+	•	Move texture packs to .minecraft/resourcepacks
+	•	Move mods to .minecraft/mods
+	•	Move data packs to the selected world’s datapacks folder
+### 🐧 Linux (Bash Script)
+	1.	Download the install.sh file from this repository.
+	2.	Open a terminal and navigate to the download location.
+	3.	Run the following commands:
+ʼʼʼ
+chmod +x install.sh
+./install.sh
+ʼʼʼ
+	4.	Follow the prompts to select the resources you want to install.
+
 ## 🤝 Community and Support
 
 If you have questions, need assistance, or want to share feedback, feel free to open an issue in this repository. Our community is here to help and discuss ideas.
