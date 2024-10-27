@@ -1,4 +1,4 @@
-# Minecraft Resources: Texture Packs, Mods, and Data Packs
+# Minecraft Resources
 
 This repository hosts a collection of Minecraft texture packs, mods, and data packs created and published on [Modrinth](https://modrinth.com). These resources are designed to enhance various aspects of the game, from visual improvements to gameplay modifications.
 
