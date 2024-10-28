@@ -8,7 +8,7 @@ categories: [repo, github]
 tags: [guide, contributing, repo, legal, codeofconduct]
 
 expanded: true
-order: 
+order: 100
 visibility: public
 ---
 ### For Texture Packs

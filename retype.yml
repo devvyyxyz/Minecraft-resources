@@ -69,7 +69,13 @@ links:                        # Custom links to add to the top bar
                               # See also: footer.links
 - text: Source
   link: https://github.com/devvyyxyz/Minecraft-resources
-  icon: home
+  icon: Assets/GitHub.png
+- text: Modrinth page
+  link: https://modrinth.com/organization/devvyyxyz-game-studios
+  icon: Assets/Modrinth.png
+- text: Source
+  link: https://www.curseforge.com/members/devvyyxyz/projects
+  icon: Assets/CurseForge.png
                               # a path to a file
   iconAlign: left           # Icon alignment, to the left or right
   target: blank             # Custom target

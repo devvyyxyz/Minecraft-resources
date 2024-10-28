@@ -8,7 +8,7 @@ categories: [repo, github]
 tags: [guide, contributing, repo, legal, codeofconduct]
 
 expanded: true
-order: 100
+order: 1
 visibility: public
 ---
 # Contributor Covenant Code of Conduct

@@ -8,7 +8,7 @@ categories: [repo, github]
 tags: [guide, contributing, repo, contributing]
 
 expanded: true
-order: 99
+order: 0
 visibility: public
 ---
 # Uploading Mods via GitHub Pull Requests

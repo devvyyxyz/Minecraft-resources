@@ -1,3 +1,16 @@
+---
+icon: 
+label: Resource Packs
+description: 
+layout: defualt
+
+categories: [repo, github]
+tags: [guide, contributing, repo, legal, codeofconduct]
+
+expanded: true
+order: 98
+visibility: public
+---
 ### For Data Packs
 
 1. **Download** – Visit the respective Modrinth page of the data pack and download its file.

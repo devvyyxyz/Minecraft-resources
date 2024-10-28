@@ -1,3 +1,16 @@
+---
+icon: 
+label: Resource Packs
+description: 
+layout: defualt
+
+categories: [repo, github]
+tags: [guide, contributing, repo, legal, codeofconduct]
+
+expanded: true
+order: 99
+visibility: public
+---
 ### For Mods
 
 1. **Download** – Visit the respective Modrinth page of the mod and download its file.
