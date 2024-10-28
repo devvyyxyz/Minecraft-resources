@@ -1,11 +1,11 @@
 ---
 icon: 
-label: Resource Packs
+label: Mods
 description: 
 layout: defualt
 
-categories: [repo, github]
-tags: [guide, contributing, repo, legal, codeofconduct]
+categories: [mods]
+tags: [guide, download, mods, documentation]
 
 expanded: true
 order: 99

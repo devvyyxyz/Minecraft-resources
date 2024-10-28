@@ -1,11 +1,11 @@
 ---
 icon: 
-label: Resource Packs
+label: Data Packs
 description: 
 layout: defualt
 
-categories: [repo, github]
-tags: [guide, contributing, repo, legal, codeofconduct]
+categories: [datapacks]
+tags: [guide, download, datapacks, documentation]
 
 expanded: true
 order: 98

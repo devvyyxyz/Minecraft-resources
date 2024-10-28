@@ -4,8 +4,8 @@ label: Resource Packs
 description: 
 layout: defualt
 
-categories: [repo, github]
-tags: [guide, contributing, repo, legal, codeofconduct]
+categories: [resourcepacks]
+tags: [guide, download, resourcepacks, documentation]
 
 expanded: true
 order: 100
