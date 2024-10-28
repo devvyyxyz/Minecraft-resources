@@ -3,9 +3,12 @@ icon: commit
 label: Uploading & contributing
 description: 
 layout: defualt
-categories: [guide]
-tags: [guide]
+
+categories: [repo, github]
+tags: [guide, contributing, repo, contributing]
+
 expanded: true
+order: 99
 visibility: public
 ---
 # Uploading Mods via GitHub Pull Requests

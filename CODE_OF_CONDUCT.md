@@ -3,9 +3,12 @@ icon: code-of-conduct
 label: Code of conduct
 description: 
 layout: defualt
-categories: [guide]
-tags: [guide, codeofconduct, legal]
+
+categories: [repo, github]
+tags: [guide, contributing, repo, legal, codeofconduct]
+
 expanded: true
+order: 100
 visibility: public
 ---
 # Contributor Covenant Code of Conduct

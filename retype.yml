@@ -36,7 +36,7 @@ outbound:
 # Retype
 # -----------------------------------------------------------------------------
 
-input: ./DOCS                    # Local path from this retype.yml file to the
+input: .                    # Local path from this retype.yml file to the
                       # root of your project content files
                               # See also: output
 
@@ -85,6 +85,9 @@ footer:
       link: LICENSE.md
     - text: Code of conduct
       link: CODE_OF_CONDUCT.md
+    - text: Icons pack
+      icon: https://media.forgecdn.net/avatars/thumbnails/852/97/256/256/638254656785217383.png
+      link: https://www.curseforge.com/minecraft/texture-packs/icons/comments
 
 # -----------------------------------------------------------------------------
 
