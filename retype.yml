@@ -83,11 +83,13 @@ footer:
                               # See also: links
     - text: License
       link: LICENSE.md
+      icon: log
     - text: Code of conduct
       link: CODE_OF_CONDUCT.md
+      icon: code-of-conduct
     - text: Icons pack
-      icon: https://media.forgecdn.net/avatars/thumbnails/852/97/256/256/638254656785217383.png
-      link: https://www.curseforge.com/minecraft/texture-packs/icons/comments
+      link: https://www.curseforge.com/minecraft/texture-packs/icons
+      icon: Assets/icons.png
 
 # -----------------------------------------------------------------------------
 
